@@ -27,7 +27,7 @@ It generates ReadMe Files quickly.
 
 *Steps required to install project and how to get the development environment running:*
 
-By downloading the files from my repository. 
+By downloading the files from my repository.
 
 
 
@@ -36,7 +36,7 @@ By downloading the files from my repository.
 
 *Instructions and examples for use:*
 
-By testing out the code within their own git bash or terminal. 
+By testing out the code within their own git bash or terminal.
 
 
 
@@ -56,7 +56,9 @@ Anyone can use this code and add to it as they see fit!
 
 They can always run the code on their own to make their first ReadMe file!
 
-
+<video width="320" height="240" controls>
+  <source src="./assets/Demo.mp4" type="video/mp4">
+</video>
 
 
 ## License
@@ -67,7 +69,7 @@ GNU AGPLv3
 
 ## Questions
 
-*If you have any questions you can reach me at my github at: JMYoung93 or email: something@gmail.com.
+*If you have any questions you can reach me at my github at: JMYOUNG93 or email: hernew@gmail.com.
 
 *You can always reach me by messaging me on github or email.
 
