@@ -82,7 +82,7 @@ const generateReadme = ({
     email,
 }) => `# ${title}
 
-${badges[license]}
+!${badges[license]}
 
 ## Description 
 
