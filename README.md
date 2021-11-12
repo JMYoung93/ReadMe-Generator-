@@ -56,10 +56,7 @@ Anyone can use this code and add to it as they see fit!
 
 They can always run the code on their own to make their first ReadMe file!
 
-<video width="320" height="240" controls>
-  <source src="./assets/Demo.mp4" type="video/mp4">
-</video>
-
+[Demo Video!](https://youtu.be/q_bz_LaZQxE)
 
 ## License
 

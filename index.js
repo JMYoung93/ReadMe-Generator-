@@ -133,10 +133,7 @@ ${contributing}
 
 ${tests}
 
-<video width="320" height="240" controls>
-  <source src="./assets/Demo.mp4" type="video/mp4">
-</video>
-
+[Demo Video!](https://youtu.be/q_bz_LaZQxE)
 
 ## License
 
