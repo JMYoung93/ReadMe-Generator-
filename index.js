@@ -92,14 +92,14 @@ ${description}
 
 ## Table of Contents
 
- - [installation] (${installation})
- - [usage] (${usage})
- - [license] (${license})
- - [contributing] (${contributing})
- - [tests] (${tests})  
- - [questions] (${questions})
- - [github] (${github})
- - [email] (${email})
+ - [installation] (#installation)
+ - [usage] (#usage)
+ - [license] (#license)
+ - [contributing] (#contributing)
+ - [tests] (#tests)  
+ - [questions] (#questions)
+ - [github] (#github)
+ - [email] (#email)
 
 
 
