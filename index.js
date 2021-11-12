@@ -143,7 +143,7 @@ ${license}
 
 ## Questions
 
-*If you have any questions you can reach me at my github at: ${github} or email: ${email}.
+*If you have any questions you can reach me at my https://github.com/${github} or email: ${email}.
 
 *You can always reach me by messaging me on github or email.
 
