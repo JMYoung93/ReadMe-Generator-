@@ -41,11 +41,6 @@ const userInfo = () => {
         },
         {
             type: "input",
-            name: "questions",
-            message: "How can users contact you if they have any questions regarding your project?",
-        },
-        {
-            type: "input",
             name: "github",
             message: "What is your gitHub URL?",
         },
@@ -83,6 +78,8 @@ const generateReadme = ({
 }) => `# ${title}
 
 ![Badge for GitHub repo top language](${badges[license]})
+
+Check out the badges hosted by [shields.io](https://shields.io/)
 
 ## Description 
 
@@ -136,7 +133,9 @@ ${contributing}
 
 ${tests}
 
-
+<video width="320" height="240" controls>
+  <source src="./assets/Demo.mp4" type="video/mp4">
+</video>
 
 
 ## License
@@ -149,13 +148,12 @@ ${license}
 
 *If you have any questions you can reach me at my github at: ${github} or email: ${email}.
 
-${questions}
+*You can always reach me by messaging me on github or email.
 
 `;
 
 const init = () => {
     userInfo()
-        // Use writeFileSync method to use promises instead of a callback function
         .then((answers) => fs.writeFileSync('./README.md', generateReadme(answers)))
         .then(() => console.log('Successfully wrote to ReadMe.md'))
         .catch((err) => console.error(err));
