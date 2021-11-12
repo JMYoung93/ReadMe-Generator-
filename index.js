@@ -92,14 +92,14 @@ ${description}
 
 ## Table of Contents
 
- * [installation](#installation)
- * [usage](#usage)
- * [license](#license)
- * [contributing](#contributing)
- * [tests](#tests)  
- * [questions](#questions)
- * [github](#github)
- * [email](#email)
+ * [Installation](#installation)
+ * [Usage](#usage)
+ * [License](#license)
+ * [Contributing](#contributing)
+ * [Tests](#tests)  
+ * [Questions](#questions)
+ * [Github](#github)
+ * [Email](#email)
 
 
 
@@ -150,11 +150,6 @@ ${license}
 *If you have any questions you can reach me at my github at: ${github} or email: ${email}.
 
 ${questions}
-
-
-
-
-
 
 `;
 

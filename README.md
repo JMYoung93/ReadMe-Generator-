@@ -1,4 +1,4 @@
-# b
+# ReadMe File Generator 
 
 ![Badge for GitHub repo top language](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 
@@ -6,18 +6,18 @@
 
 *The what, why, and how:* 
 
-b
+It generates a professional ReadMe file through the command line.
 
 ## Table of Contents
 
- * [installation](#installation)
- * [usage](#usage)
- * [license](#license)
- * [contributing](#contributing)
- * [tests](#tests)  
- * [questions](#questions)
- * [github](#github)
- * [email](#email)
+ * [Installation](#installation)
+ * [Usage](#usage)
+ * [License](#license)
+ * [Contributing](#contributing)
+ * [Tests](#tests)  
+ * [Questions](#questions)
+ * [Github](#github)
+ * [Email](#email)
 
 
 
@@ -25,7 +25,7 @@ b
 
 *Steps required to install project and how to get the development environment running:*
 
-b
+Download the files from the repository, save files, and run node in bash.
 
 
 
@@ -34,7 +34,7 @@ b
 
 *Instructions and examples for use:*
 
-b
+To generate ReadMe files quickly. 
 
 
 
@@ -43,7 +43,7 @@ b
 
 *If you would like to contribute it, you can follow these guidelines for how to do so.*
 
-b
+They can add more to the code as they please. 
 
 
 
@@ -52,7 +52,7 @@ b
 
 *Tests for application and how to run them:*
 
-b
+By running our code and generating their own ReadMe file. 
 
 
 
@@ -65,12 +65,7 @@ GNU AGPLv3
 
 ## Questions
 
-*If you have any questions you can reach me at my github at: b or email: b.
+*If you have any questions you can reach me at my github at: https://github.com/JMYoung93 or email: hernew@gmail.com.
 
-b
-
-
-
-
-
+You can always reach me by messaging me on github or email. 
 
