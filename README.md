@@ -10,14 +10,14 @@ l
 
 ## Table of Contents
 
- - [installation] (l)
- - [usage] (l)
- - [license] (GNU AGPLv3)
- - [contributing] (l)
- - [tests] (l)  
- - [questions] (l)
- - [github] (l)
- - [email] (l)
+ - [installation] (#installation)
+ - [usage] (#usage)
+ - [license] (#license)
+ - [contributing] (#contributing)
+ - [tests] (#tests)  
+ - [questions] (#questions)
+ - [github] (#github)
+ - [email] (#email)
 
 
 
@@ -60,3 +60,17 @@ l
 ## License
 
 GNU AGPLv3
+
+
+
+## Questions
+
+*If you have any questions you can reach me at my github at: l or email: l.
+
+l
+
+
+
+
+
+
