@@ -37,7 +37,7 @@ const userInfo = () => {
         {
             type: "input",
             name: "tests",
-            message: "Here is how others can run tests using your project.",
+            message: "How cab others run tests using your project.",
         },
         {
             type: "input",
@@ -59,13 +59,13 @@ const userInfo = () => {
 
 const badges = {
     'GNU AGPLv3': 'https://img.shields.io/badge/License-AGPL_v3-blue.svg',
-    //'GNU GPLv3':'https://img.shields.io/badge/License-GPLv3-blue.svg) https://www.gnu.org/licenses/gpl-3.0',
-    // GNU LGPLv3: [![License: LGPL v3]('https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0'),
-    // Mozilla Public License 2.0: [![License: MPL 2.0]('https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg')]('https://opensource.org/licenses/MPL-2.0'),
-    // Apache License 2.0:[![License]('https://img.shields.io/badge/License-Apache_2.0-blue.svg')]('https://opensource.org/licenses/Apache-2.0'),
-    // MIT License: [![License: MIT]('https://img.shields.io/badge/License-MIT-yellow.svg')]('https://opensource.org/licenses/MIT'),
-    // Boost Software License 1.0: [![License]('https://img.shields.io/badge/License-Boost_1.0-lightblue.svg')]('https://www.boost.org/LICENSE_1_0.txt'),
-    // The Unlicense: [![License: Unlicense]('https://img.shields.io/badge/license-Unlicense-blue.svg')]('http://unlicense.org/'),
+    'GNU GPLv3':'https://img.shields.io/badge/License-GPLv3-blue.svg',
+    'GNU LGPLv3': 'https://img.shields.io/badge/License-LGPL_v3-blue.svg',
+    'Mozilla Public License 2.0': 'https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg',
+    'Apache License 2.0':'https://img.shields.io/badge/License-Apache_2.0-blue.svg',
+    'MIT License': 'https://img.shields.io/badge/License-MIT-yellow.svg',
+    'Boost Software License 1.0': 'https://img.shields.io/badge/License-Boost_1.0-lightblue.svg',
+    'The Unlicense': 'https://img.shields.io/badge/license-Unlicense-blue.svg',
 }
 
 const generateReadme = ({
@@ -142,6 +142,20 @@ ${tests}
 ## License
 
 ${license}
+
+
+
+## Questions
+
+*If you have any questions you can reach me at my github at: ${github} or email: ${email}.
+
+${questions}
+
+
+
+
+
+
 `;
 
 const init = () => {
